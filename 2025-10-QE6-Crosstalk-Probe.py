@@ -1,6 +1,6 @@
 # ============================================================
 #  2025-10-QE6-Crosstalk-Probe
-#  © 2025  Perreault Enterprises — Project Cynric / Genesis Epoch
+#  RAiTHE INDUSTRIES INC.© 2025 — Project Cynric / Genesis Epoch
 #  Goal:
 #     Measure crosstalk: run Ramsey on a target qubit while
 #     driving each physical neighbor with bursts of X (RX(pi))
@@ -269,4 +269,5 @@ if __name__ == "__main__":
     auto_archive(
         name="2025-10-QE6-Crosstalk-Probe",
         purpose="Crosstalk probe: Ramsey on target with neighbor X-burst drive"
+
     )
