@@ -1,6 +1,6 @@
 # ============================================================
 #  2025-10-QE1-Prime-Baseline
-#  © 2025  Perreault Enterprises — Project Cynric / Genesis Epoch
+#  RAiTHE INDUSTRIES INC.© 2025 — Project Cynric / Genesis Epoch
 #  Originator: Robert R. S. Perreault
 #
 #  Purpose:
@@ -156,5 +156,6 @@ if __name__ == "__main__":
     #  Auto-Archival Trigger
     # ------------------------------------------------------------
     auto_archive("2025-10-QE1-Prime-Baseline", "Prime Baseline Calibration (τ-normalized)")
+
 
 # ZS-Link: 2025-10-QE1-Prime-Baseline | τ-Normalized Baseline
