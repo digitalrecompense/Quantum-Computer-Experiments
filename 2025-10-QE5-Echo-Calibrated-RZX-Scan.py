@@ -1,6 +1,6 @@
 # ============================================================
 #  2025-10-QE5-Echo-Calibrated-RZX-Scan
-#  © 2025  Perreault Enterprises — Project Cynric / Genesis Epoch
+#  RAiTHE INDUSTRIES INC.© 2025 — Project Cynric / Genesis Epoch
 #  Originator: Robert R. S. Perreault
 #
 #  Goal:
@@ -316,4 +316,5 @@ if __name__ == "__main__":
 
     # Auto-archive (Phase A -> B -> Visualizer)
     auto_archive("2025-10-QE5-Echo-Calibrated-RZX-Scan",
+
                  "Echo-protected RZX amplitude scan (θ grid) with tiny T2* proxy")
