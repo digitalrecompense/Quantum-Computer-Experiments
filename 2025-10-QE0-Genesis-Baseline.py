@@ -1,6 +1,6 @@
 # ============================================================
 #  2025-10-QE0-Genesis-Baseline
-#  © 2025  Perreault Enterprises — Project Cynric / Genesis Epoch
+#  RAiTHE INDUSTRIES INC.© 2025 — Project Cynric / Genesis Epoch
 #  Originator: Robert R. S. Perreault
 #
 #  Purpose:
@@ -138,4 +138,5 @@ if __name__ == "__main__":
     #  Auto-Archival Trigger
     # ------------------------------------------------------------
     auto_archive("2025-10-QE0-Genesis-Baseline", "Zero-Separation Genesis Baseline Calibration")
+
 # ZS-Link: 2025-10-QE0-Genesis-Baseline | Establish Zero-Point Reference
