@@ -1,6 +1,6 @@
 # ============================================================
 #  2025-10-QE8-Echoed-ZX-Hamiltonian-Scan  (v2, ISA-safe)
-#  © 2025  Perreault Enterprises — Project Cynric / Genesis Epoch
+#  RAiTHE INDUSTRIES INC.© 2025 — Project Cynric / Genesis Epoch
 #
 #  Goal:
 #    Estimate effective ZX coupling via echoed RZX fragments.
@@ -285,4 +285,5 @@ if __name__ == "__main__":
     auto_archive(
         name="2025-10-QE8-Echoed-ZX-Hamiltonian-Scan",
         purpose="Echoed-RZX parity/ZZ oscillations vs repetition across echo modes & θ-set"
+
     )
