@@ -1,6 +1,6 @@
 # ============================================================
 #  2025-10-QE7-Calibration-Drift-Monitor
-#  © 2025  Perreault Enterprises — Project Cynric / Genesis Epoch
+#  RAiTHE INDUSTRIES INC.© 2025 — Project Cynric / Genesis Epoch
 #  Goal:
 #     Track short-timescale calibration drift by repeating quick
 #     parity-sensitive measurements across a small set of time bins.
@@ -253,4 +253,5 @@ if __name__ == "__main__":
     auto_archive(
         name="2025-10-QE7-Calibration-Drift-Monitor",
         purpose="Short-timescale parity drift monitor across hardware delay bins"
+
     )
