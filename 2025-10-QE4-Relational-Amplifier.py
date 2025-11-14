@@ -1,6 +1,6 @@
 # ============================================================
 #  2025-10-QE4-RelationalAmplifier
-#  © 2025  Perreault Enterprises — Project Cynric / Genesis Epoch
+#  RAiTHE INDUSTRIES INC.© 2025 — Project Cynric / Genesis Epoch
 #  Originator: Robert R. S. Perreault
 #
 #  Purpose:
@@ -323,4 +323,5 @@ if __name__ == "__main__":
 
     # Auto-archive (Phase pipeline)
     auto_archive("2025-10-QE4-RelationalAmplifier", "Relational Amplifier (depth/θ sweep)")
+
 # ZS-Link: 2025-10-QE4-RelationalAmplifier | Relational Depth Sweep
