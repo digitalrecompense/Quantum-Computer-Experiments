@@ -1,6 +1,6 @@
 # ============================================================
 #  2025-10-QE3-Native-Gates-Probe
-#  © 2025  Perreault Enterprises — Project Cynric / Genesis Epoch
+#  RAiTHE INDUSTRIES INC.© 2025 — Project Cynric / Genesis Epoch
 #  Originator: Robert R. S. Perreault
 #
 #  Purpose:
