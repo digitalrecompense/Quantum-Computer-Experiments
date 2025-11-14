@@ -1,6 +1,6 @@
 # ============================================================
 #  2025-10-QE2-Relational-Curvature
-#  © 2025  Perreault Enterprises — Project Cynric / Genesis Epoch
+#  RAiTHE INDUSTRIES INC.© 2025 — Project Cynric / Genesis Epoch
 #  Originator: Robert R. S. Perreault
 #
 #  Purpose:
@@ -298,5 +298,6 @@ if __name__ == "__main__":
 
     # Auto-archive handoff
     auto_archive("2025-10-QE2-Relational-Curvature", "Relational Curvature Sweep (Cross-Qubit Relativity)")
+
 
 # ZS-Link: 2025-10-QE2-Relational-Curvature | Λ-Phase Relational Surface
